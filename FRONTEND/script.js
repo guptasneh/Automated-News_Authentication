@@ -1,5 +1,4 @@
-// ================= API KEY =================
-const API_KEY = "b09d4b64ec154aa7a8c32c0c29007379";
+
 
 // ================= LOAD NEWS =================
 async function loadNews() {
